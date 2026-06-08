@@ -35,7 +35,7 @@ Learning  : Cloud Architecture & DevOps
 * 🌐 Exploring blockchain ecosystems
 * 🔐 Learning penetration testing & cyber security
 * 🐧 Linux enthusiast and self-hosting hobbyist
-* 🎮 Minecraft plugin developer
+* 🎮 fivem plugin developer
 * ☁️ Cloud & VPS deployment
 
 ---
